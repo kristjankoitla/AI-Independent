@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class>
+    <panel>
+        <width>1000</width>
+        <height>500</height>
+    </panel>
+
+    <player>
+        <width>20</width>
+        <height>20</height>
+        <speed>4</speed>
+        <color>black</color>
+        <rayColor>blue</rayColor>
+        <rotationSpeed>4</rotationSpeed>
+    </player>
+
+    <level>
+        <rectSize>10</rectSize>
+        <defaultColor>lightGray</defaultColor>
+        <drawnColor>blue</drawnColor>
+    </level>
+
+    <font>
+        <style>Arial</style>
+        <size>16</size>
+        <color>gray</color>
+    </font>
+</class>
