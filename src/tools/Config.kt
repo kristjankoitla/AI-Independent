@@ -9,7 +9,7 @@ object Config {
 
     private val docBuilderFactory = DocumentBuilderFactory.newInstance()
     private val docBuilder = docBuilderFactory.newDocumentBuilder()
-    private val doc = docBuilder.parse(File("src\\tools\\config"))
+    private val doc = docBuilder.parse(File("C:\\Users\\koitl\\IdeaProjects\\Independent\\src\\tools\\config.xml"))
 
     val panelWidth: Int
     val panelHeight: Int
